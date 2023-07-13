@@ -1,0 +1,20 @@
+name: vpc
+channels:
+  - conda-forge
+  - fastai
+dependencies:
+  - python=3.9
+  - pip
+  - jupyterlab
+  - notebook
+  - opencv-python-headless
+  - numpy
+  - matplotlib
+  - plotly
+  - etils
+  - mediapy
+  - jupytext
+  - simple-parsing
+  - ipdb
+  - rich
+  - scipy
